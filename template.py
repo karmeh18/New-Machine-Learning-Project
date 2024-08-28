@@ -18,7 +18,8 @@ list_of_files=[
     "app.py",
     "logs.py",
     "exception.py",
-    "setup.py"
+    "setup.py",
+    "requirements.txt"
 ]
 
 # Loop through the list to create folders and files
